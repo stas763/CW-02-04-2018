@@ -1,0 +1,11 @@
+.tab-buttons button.active {
+    font-weight: bold;
+}
+
+.tab-panels div {
+    display: none;
+}
+
+.tab-panels div.active {
+    display: block;
+}
